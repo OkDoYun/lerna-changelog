@@ -1,0 +1,26 @@
+{
+  "name": "core",
+  "version": "0.1.0",
+  "description": "> TODO: description",
+  "author": "OkDoYun <dyson@musma.net>",
+  "homepage": "https://github.com/OkDoYun/lerna-changelog#readme",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OkDoYun/lerna-changelog.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/OkDoYun/lerna-changelog/issues"
+  }
+}
